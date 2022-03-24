@@ -1,0 +1,20 @@
+body {
+  border: 2px solid black;
+  margin: 30px;
+  padding: 60px;
+  text-align: center;
+  background-color: #ccc;
+  display: block;
+}
+
+button {
+  background: none;
+  border: none;
+  outline: none;
+  font-size: 40px;
+}
+
+button:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+}
